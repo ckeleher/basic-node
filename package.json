@@ -1,6 +1,7 @@
 {
   "name": "node-with-tests-coverage",
   "version": "0.0.1",
+  "engines":{"node":">=4"},
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
